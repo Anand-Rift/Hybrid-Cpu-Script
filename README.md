@@ -14,5 +14,5 @@ Developed for potato hardware running on 2011 i3s. Now works on ANY system.
 ## ⚡ Quick Start
  Just run the install.desktop after unzipping the file and DONE!
 
- ##Uninstallation
+ ## Uninstallation
  just run uninstall.desktop file!!
