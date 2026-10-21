@@ -16,3 +16,5 @@ Developed for potato hardware running on 2011 i3s. Now works on ANY system.
 
  ## Uninstallation
  just run uninstall.desktop file!!
+## leave a star bro
+
